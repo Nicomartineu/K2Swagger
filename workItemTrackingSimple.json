@@ -58,40 +58,9 @@
             "schema": {
               "type": "string"
             }
-        },
+        }
       }
-    },
-  },
-  "definitions": {
-  },
-  "parameters": {
-    "api-Version-preview.1": {
-      "name": "api-version",
-      "in": "query",
-      "description": "Version of the API to use.  This should be set to '7.2-preview.1' to use this version of the api.",
-      "required": true,
-      "type": "string"
-    },
-    "api-Version-preview.2": {
-      "name": "api-version",
-      "in": "query",
-      "description": "Version of the API to use.  This should be set to '7.2-preview.2' to use this version of the api.",
-      "required": true,
-      "type": "string"
-    },
-    "api-Version-preview.3": {
-      "name": "api-version",
-      "in": "query",
-      "description": "Version of the API to use.  This should be set to '7.2-preview.3' to use this version of the api.",
-      "required": true,
-      "type": "string"
-    },
-    "api-Version-preview.4": {
-      "name": "api-version",
-      "in": "query",
-      "description": "Version of the API to use.  This should be set to '7.2-preview.4' to use this version of the api.",
-      "required": true,
-      "type": "string"
     }
   }
+}
 }
